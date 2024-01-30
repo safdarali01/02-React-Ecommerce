@@ -117,7 +117,7 @@ const Footer = () => {
             </li>
           </ul>
         </div>
-        <div className="col-span-2 flex flex-col items-center w-full px-4">
+        <div className="col-span-2 flex flex-col items-start w-full px-4">
           <FooterListTitle title="Subscribe to our newsletter." />
           <div className="w-full">
             <p className="text-center mb-4">
